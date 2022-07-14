@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ReactJS 
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me:
+
   Instagram: @mevlan_cuni
   
   LinkedIn: Mevlan Çuni
