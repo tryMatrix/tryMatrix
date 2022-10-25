@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mevlan
-- 👀 I’m interested in Web Development, AI, Blockchain and Game Development
+- 👀 I’m interested in Fintech, AI, Blockchain and Cognitive Computing
 - 🌱 I’m currently learning ReactJS 
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me:
