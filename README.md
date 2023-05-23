@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mevlan
 - 👀 I’m interested in Fintech, AI, Blockchain and Cognitive Computing
-- 🌱 I’m currently learning ReactJS 
+- 🌱 I’m currently upskilling in Angular 
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me:
 
